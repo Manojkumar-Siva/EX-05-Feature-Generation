@@ -164,9 +164,11 @@ df4
 ![](./dot4.jpg)
 
 Minmax scaling:
+
 ![](./dot5.jpg)
 
 Standard Scaling:
+
 ![](./dot6.jpg)
 
 MaxAbs Scaling:
@@ -200,22 +202,31 @@ Robust Scaler:
 
 ## iii) Titanic_dataset.csv:
 ![](./to1.jpg)
+
 Removing Null Values:
 
 ![](./to2.jpg)
 ![](./to3.jpg)
+
 Encoding:
 
 ![](./to4.jpg)
 ![](./to5.jpg)
+
 Min Max Scaler:
 
 ![](./to6.jpg)
+
 Standard Scaler:
+
 ![](./to7.jpg)
+
 Max Abs Scaler:
+
 ![](./to8.jpg)
+
 Robust Scaler:
+
 ![](./to9.jpg)
 
 # RESULT:
